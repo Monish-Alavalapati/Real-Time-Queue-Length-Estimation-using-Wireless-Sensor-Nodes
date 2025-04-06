@@ -127,7 +127,7 @@ Here's a simple representation of the architecture:
 
 ## Acknowledgements
 
-Special thanks to [Vedanta S P](https://github.com/unworld11) for providing UI and providing backend support for the project.
+Special thanks to [Vedanta S P](https://github.com/unworld11) for providing UI and backend support for the project.
 
 ## Licensing
 
