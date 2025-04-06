@@ -113,7 +113,7 @@ ngrok http 192.168.x.x:80
 
 Here's a simple representation of the architecture:
 
-![System Block Diagram](./A_block_diagram_in_digital_vector_graphic_format_i.png)
+![System Block Diagram](./block_diagram.png)
 
 ---
 
