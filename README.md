@@ -116,6 +116,17 @@ Here's a simple representation of the architecture:
 ![System Block Diagram](./block_diagram.png)
 
 ---
+## Dashboard
+
+We have developed multiple designs for our dashboard, hosted on our server. Each design experiments with different UI styles and incorporates various features. The objective was to create a flexible system where code can be easily interchanged to accommodate future feature additions. Below are the designs we have created for our dashboards:
+
+![Dashboard 1](./Dashboard_1.jpg)
+
+![Dashboard 2](./Dashboard_2.jpg)
+
+![Dashboard 3](./Dashboard_3.jpg)
+
+![Dashboard 4](./Dashboard_4.jpg)
 
 ## Future Improvements
 
