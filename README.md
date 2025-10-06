@@ -138,7 +138,7 @@ We have developed multiple designs for our dashboard, hosted on our server. Each
 
 ## Acknowledgements
 
-Special thanks to [Vedanta S P](https://github.com/unworld11) for providing UI and backend support for the project and [Santhan Reddy D](https://github.com/santhan010904) for aiding me develop the programming logic and other aspects of the project.
+Special thanks to [Vedanta S P](https://github.com/unworld11) for providing UI and backend support for the project and [Santhan Reddy D](https://github.com/santhanreddy820) for aiding me develop the programming logic and other aspects of the project.
 
 ## Licensing
 
