@@ -1,9 +1,3 @@
-<img width="931" height="79" alt="image" src="https://github.com/user-attachments/assets/21a5d9e4-00e6-4763-aa60-f655fa13b39d" /># Real Time Queue Length Estimation using Wireless Sensor Nodes
-
-A modular ESP32-based system to monitor and visualize queue length using ultrasonic sensors.
-
----
-
 ## Project Overview
 
 This Smart Queue Monitor system uses two HC-SR04 ultrasonic sensors to detect people entering and exiting a queue area.  
