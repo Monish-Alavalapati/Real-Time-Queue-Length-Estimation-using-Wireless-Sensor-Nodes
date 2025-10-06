@@ -1,4 +1,4 @@
-# Real Time Queue Length Estimation using Wireless Sensor Nodes
+<img width="931" height="79" alt="image" src="https://github.com/user-attachments/assets/21a5d9e4-00e6-4763-aa60-f655fa13b39d" /># Real Time Queue Length Estimation using Wireless Sensor Nodes
 
 A modular ESP32-based system to monitor and visualize queue length using ultrasonic sensors.
 
@@ -138,7 +138,7 @@ We have developed multiple designs for our dashboard, hosted on our server. Each
 
 ## Acknowledgements
 
-Special thanks to [Vedanta S P](https://github.com/unworld11) for providing UI and backend support for the project.
+Special thanks to [Vedanta S P](https://github.com/unworld11) for providing UI and backend support for the project and [Santhan Reddy D](https://github.com/santhan010904) for aiding me develop the programming logic and other aspects of the project.
 
 ## Licensing
 
